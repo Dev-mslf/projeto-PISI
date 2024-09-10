@@ -1,7 +1,7 @@
 
 # BankApp
 
-Projeto desenvolvido durante a disciplina de Projetos à Programação do Departamento de Computação da Universidade Federal Rural de Pernambuco. O projeto consiste na criação de um sistema bancário utilizando a linguagem de programação Python e a biblioteca Kivy.
+Projeto desenvolvido para a cadeira Projeto Interdisciplinar para Sistemas de Informação, do Departamento de Computação da Universidade Federal Rural de Pernambuco. O projeto consiste na criação de um sistema bancário utilizando a linguagem de programação Python e a biblioteca Kivy.
 
 * A ideia principal da aplicação é poder realizar 3 operações: depósito, saque e visualizar extrato.
 * A operação saque só pode ser feita 3 vezes com limite de 500 reais por saque.
